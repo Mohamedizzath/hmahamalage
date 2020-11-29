@@ -1,0 +1,104 @@
+#navbar-brand-id {
+  /* color:#563D7C !important; */
+}
+
+body {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.changePadding {
+  padding: 0px !important;
+}
+
+.changeMargin {
+  margin: 0px !important;
+}
+
+.mainImageNext {
+  color: white;
+  /* background: rgb(2,2,85);
+    background: linear-gradient(90deg, rgba(2,2,85,1) 1%, rgba(9,9,121,1) 15%, rgba(30,30,196,1) 100%); */
+}
+
+.addGradient {
+  background: rgb(2, 2, 85);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 2, 85, 1) 1%,
+    rgba(9, 9, 121, 1) 15%,
+    rgba(30, 30, 196, 1) 100%
+  );
+}
+
+.mainButton {
+  color: white;
+}
+
+.futureRow {
+  color: #085d8b !important;
+  background-color: rgb(231, 229, 229) !important;
+}
+
+.footerReboot {
+  /* color:rgb(46, 47, 48) !important;
+    background-color: #F5F5F7 !important; */
+  color: white !important;
+}
+
+.footerLink {
+  color: White;
+  text-decoration: none;
+}
+a.footerLink:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.contactLink {
+  color: #085d8b !important;
+  text-decoration: none;
+}
+
+.contactLink:hover {
+  color: #085d8b !important;
+  text-decoration: none;
+}
+
+.contactLinkAdd {
+  color: white;
+  text-decoration: none;
+}
+
+.contactLinkAdd:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.futureRowAbout {
+  color: #085d8b !important;
+}
+
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-container iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.contactLink {
+  color: #222222 !important;
+  text-decoration: none;
+}
+
+.contactLink:hover {
+  color: #222222 !important;
+  text-decoration: none;
+}
